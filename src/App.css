@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.rbc-header{
+  color:#00d443;
+  font-weight: 900;
+}
+
+.rbc-event{
+  padding:5;
+  font-size:16px;
+  font-weight: 900;
+  background-color: #02b6e3 !important;
+  color: #fac66b !important; 
+}
+
+td, th {
+  padding: 8px;
+  text-align: left;
+}
